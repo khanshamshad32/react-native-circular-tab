@@ -1,6 +1,6 @@
 {
   "name": "react-native-circular-tabs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react native library to provide tab view in your app with cyclic swipes. It also supports dynamically add and remove tabs",
   "main": "index.tsx",
   "types": "lib/typescript/index.d.ts",
